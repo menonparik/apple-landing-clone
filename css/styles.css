@@ -156,7 +156,7 @@ header .navbar .navbar-hid a {
   align-content: center;
   align-items: center;
   justify-content: space-around;
-  background-image: url("/images/ipad.jpg");
+  background-image: url("../images/ipad.jpg");
   width: 100%;
   height: 80vh;
   background-size: cover;
@@ -190,7 +190,7 @@ header .navbar .navbar-hid a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("/images/ipadpro.jpg");
+  background-image: url("../images/ipadpro.jpg");
   width: 100%;
   height: 73vh;
   background-size: cover;
@@ -230,7 +230,7 @@ header .navbar .navbar-hid a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/images/iphone.jpg");
+  background-image: url("../images/iphone.jpg");
   width: 100%;
   height: 73vh;
   background-size: cover;
@@ -268,7 +268,7 @@ header .navbar .navbar-hid a {
 }
 @media (max-width: 997px) {
   .hero .pro {
-    background-image: url(/images/ipadpro_med.jpg);
+    background-image: url(../images/ipadpro_med.jpg);
   }
   .hero .pro .text2 {
     margin-top: -2px;
@@ -289,7 +289,7 @@ header .navbar .navbar-hid a {
 }
 @media (max-width: 734px) {
   .hero .ipad {
-    background-image: url("/images/ipad_small.jpg");
+    background-image: url("../images/ipad_small.jpg");
     position: relative;
     margin-top: 60px;
   }
@@ -304,7 +304,7 @@ header .navbar .navbar-hid a {
     font-size: 1.4rem !important;
   }
   .hero .pro {
-    background-image: url("/images/pro_small.jpg");
+    background-image: url("../images/pro_small.jpg");
   }
   .hero .pro .text2 h2 {
     font-size: 2.4rem !important;
@@ -313,7 +313,7 @@ header .navbar .navbar-hid a {
     font-size: 1.4rem !important;
   }
   .hero .iphone {
-    background-image: url("/images/iphone_small.jpg");
+    background-image: url("../images/iphone_small.jpg");
   }
   .hero .iphone .text3 h2 {
     font-size: 2.4rem !important;
@@ -363,7 +363,7 @@ header .navbar .navbar-hid a {
   padding: 10px;
 }
 .misc-products .ip14 {
-  background-image: url("/images/ip14large.jpg");
+  background-image: url("../images/ip14large.jpg");
   grid-column-start: 1;
   grid-column-end: 2;
   text-align: center;
@@ -392,7 +392,7 @@ header .navbar .navbar-hid a {
   margin-top: -5px;
 }
 .misc-products .tv {
-  background-image: url("/images/tv4k.jpg");
+  background-image: url("../images/tv4k.jpg");
   text-align: center;
   background-position-x: center;
   width: 100%;
@@ -412,7 +412,7 @@ header .navbar .navbar-hid a {
   margin-top: -5px;
 }
 .misc-products .watchultra {
-  background-image: url("/images/watchultralarge.jpg");
+  background-image: url("../images/watchultralarge.jpg");
   text-align: center;
   background-position-x: center;
   width: 100%;
@@ -432,7 +432,7 @@ header .navbar .navbar-hid a {
   margin-top: -5px;
 }
 .misc-products .watch8 {
-  background-image: url("/images/watch8large.jpg");
+  background-image: url("../images/watch8large.jpg");
   text-align: center;
   background-position-x: center;
   width: 100%;
@@ -452,7 +452,7 @@ header .navbar .navbar-hid a {
   margin-top: -5px;
 }
 .misc-products .macair {
-  background-image: url("/images/macair.png");
+  background-image: url("../images/macair.png");
   text-align: center;
   background-position-x: center;
   width: 100%;
@@ -477,7 +477,7 @@ header .navbar .navbar-hid a {
   margin-top: -5px;
 }
 .misc-products .airpro {
-  background-image: url("/images/airpods.jpg");
+  background-image: url("../images/airpods.jpg");
   text-align: center;
   background-position-x: center;
   width: 100%;
@@ -512,23 +512,23 @@ header .navbar .navbar-hid a {
     grid-column-end: 3;
   }
   .misc-products .tv {
-    background-image: url("/images/tv4k_small.jpg");
+    background-image: url("../images/tv4k_small.jpg");
     height: 73vh;
   }
   .misc-products .watchultra {
-    background-image: url("/images/watch_small.jpg");
+    background-image: url("../images/watch_small.jpg");
     height: 73vh;
   }
   .misc-products .watch8 {
-    background-image: url("/images/watch8_med.jpg");
+    background-image: url("../images/watch8_med.jpg");
     height: 73vh;
   }
   .misc-products .macair {
-    background-image: url("/images/macair_small.png");
+    background-image: url("../images/macair_small.png");
     height: 73vh;
   }
   .misc-products .airpro {
-    background-image: url("/images/air_small.jpg");
+    background-image: url("../images/air_small.jpg");
     height: 73vh;
   }
 }

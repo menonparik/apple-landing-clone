@@ -174,7 +174,7 @@ header{
         align-content: center;
         align-items:center;
         justify-content: space-around;
-        background-image: url('/images/ipad.jpg');
+        background-image: url('../images/ipad.jpg');
         width: 100%;
         height: 80vh;
         background-size: cover;
@@ -214,7 +214,7 @@ header{
         display: flex;
         flex-direction: column;
         align-items:center;
-        background-image: url('/images/ipadpro.jpg');
+        background-image: url('../images/ipadpro.jpg');
         width: 100%;
         height: 73vh;
         background-size: cover;
@@ -259,7 +259,7 @@ header{
         flex-direction: column;
         justify-content: center;
         align-items:center;
-        background-image: url('/images/iphone.jpg');
+        background-image: url('../images/iphone.jpg');
         width: 100%;
         height: 73vh;
         background-size: cover;
@@ -304,7 +304,7 @@ header{
 
     @media (max-width: 997px){
         .pro{
-            background-image: url(/images/ipadpro_med.jpg);
+            background-image: url(../images/ipadpro_med.jpg);
         
             .text2{
                 margin-top: -2px;
@@ -337,7 +337,7 @@ header{
 
     @media (max-width: 734px){
             .ipad{
-                background-image: url('/images/ipad_small.jpg');
+                background-image: url('../images/ipad_small.jpg');
                 position: relative;
                 margin-top: 60px;
 
@@ -358,7 +358,7 @@ header{
 
 
             .pro{
-                background-image: url('/images/pro_small.jpg');
+                background-image: url('../images/pro_small.jpg');
                 
                 
 
@@ -376,7 +376,7 @@ header{
             }
             
             .iphone{
-                background-image: url('/images/iphone_small.jpg');
+                background-image: url('../images/iphone_small.jpg');
 
                 .text3{
                     h2{
@@ -453,7 +453,7 @@ header{
     padding: 10px;
 
     .ip14{
-        background-image: url('/images/ip14large.jpg');
+        background-image: url('../images/ip14large.jpg');
         grid-column-start: 1;
         grid-column-end: 2;
         text-align: center; 
@@ -486,7 +486,7 @@ header{
     }
 
     .tv{
-        background-image: url('/images/tv4k.jpg');
+        background-image: url('../images/tv4k.jpg');
         text-align: center;
         background-position-x: center;
         width: 100%;
@@ -510,7 +510,7 @@ header{
 
 
     .watchultra{
-        background-image: url('/images/watchultralarge.jpg');
+        background-image: url('../images/watchultralarge.jpg');
         text-align: center;
         background-position-x: center;
         width: 100%;
@@ -533,7 +533,7 @@ header{
     }
 
     .watch8{
-        background-image: url('/images/watch8large.jpg');
+        background-image: url('../images/watch8large.jpg');
         text-align: center;
         background-position-x: center;
         width: 100%;
@@ -557,7 +557,7 @@ header{
     }
 
     .macair{
-        background-image: url('/images/macair.png');
+        background-image: url('../images/macair.png');
         text-align: center;
         background-position-x: center;
         width: 100%;
@@ -586,7 +586,7 @@ header{
     }
 
     .airpro{
-        background-image: url('/images/airpods.jpg');
+        background-image: url('../images/airpods.jpg');
         text-align: center;
         background-position-x: center;
         width: 100%;
@@ -628,27 +628,27 @@ header{
         }
 
         .tv{
-            background-image: url('/images/tv4k_small.jpg');
+            background-image: url('../images/tv4k_small.jpg');
             height: 73vh;
         }
         
         .watchultra{
-            background-image: url('/images/watch_small.jpg');
+            background-image: url('../images/watch_small.jpg');
             height: 73vh;
         }
 
         .watch8{
-            background-image: url('/images/watch8_med.jpg');
+            background-image: url('../images/watch8_med.jpg');
             height: 73vh;
         }
 
         .macair{
-            background-image: url('/images/macair_small.png');
+            background-image: url('../images/macair_small.png');
             height: 73vh;
         }
 
         .airpro{
-            background-image: url('/images/air_small.jpg');
+            background-image: url('../images/air_small.jpg');
             height: 73vh;
         }
     }
